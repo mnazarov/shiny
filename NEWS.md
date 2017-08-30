@@ -17,6 +17,8 @@ shiny 1.0.5.9000
 
 ### Library updates
 
+* Updated selectize.js to version 0.12.4. 
+
 
 shiny 1.0.5
 ===========
